@@ -1,4 +1,4 @@
-== About
+## About
 
 This serves as the API for the Ron Swanson Code Generator: https://codepen.io/codebiker/pen/BZgoOV
 
